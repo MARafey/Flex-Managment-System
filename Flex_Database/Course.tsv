@@ -1,0 +1,40 @@
+CourseID	Title	PreReq	CreditHrs	CType	Coordinator
+HE3038	Tu Computer Science	TB7363	1	Core	12T3663
+QL9127	Mt Computer Science	SG8335	3	Core	13T1592
+TB7363	Ku Computer Science	CO1531	3	Elective	17T0792
+PB8866	Ad Computer Science	WC1447	1	Core	13T7595
+ZE7137	Bf Computer Science	DJ5442	2	Elective	12T3663
+FG5012	Dj Computer Science	HI4031	1	Elective	11T7150
+HM9533	Zw Computer Science	SG8335	1	Core	17T0792
+VB6869	Hu Computer Science	RB1015	3	Elective	10T4012
+XZ4200	Ut Computer Science		2	Core	12T3663
+HI4031	Vn Computer Science		3	Elective	13T1592
+NF8700	Yl Computer Science		2	Core	11T7150
+ZD5046	Iw Computer Science	LC2710	3	Core	11T7150
+IA9637	Yx Computer Science	WC6941	3	Core	15T7727
+GD3232	Fd Computer Science	LU3423	3	Elective	17T0792
+DJ5442	Ky Computer Science	KY7116	3	Core	13T1592
+NF6113	Yv Computer Science		3	Core	10T4012
+KB9592	Cr Computer Science	RB1015	2	Core	11T7150
+HY8097	Iu Computer Science	LU3423	2	Core	19T5370
+KY7116	Hh Computer Science	RX1312	2	Core	15T7727
+OA1924	Zx Computer Science	PC1416	3	Elective	19T5370
+YQ1346	Eu Computer Science	IR1277	2	Core	10T4012
+SG8335	Bh Computer Science	LB8862	2	Elective	17T0792
+WC1447	Ie Computer Science	OA2651	1	Elective	19T5370
+OA2651	Tu Computer Science		1	Core	10T4012
+LB8862	Rq Computer Science		3	Elective	11T7150
+CZ7791	Ya Computer Science	LU3423	1	Core	12T3663
+OJ3384	Ml Computer Science	RB1015	3	Elective	19T5370
+BP6801	Eu Computer Science	LU3423	1	Elective	11T7150
+IR1277	Tw Computer Science	RB1015	3	Core	17T0792
+RX1312	Qi Computer Science	CO1531	2	Core	13T7595
+NR2215	My Computer Science	KW5945	1	Core	10T4012
+YU6424	Ke Computer Science	CO1531	1	Elective	13T7595
+LC2710	Ng Computer Science	LC2710	1	Core	13T1592
+LU3423	Lk Computer Science	CO1531	1	Elective	11T7150
+KW5945	Oo Computer Science	KW5945	1	Core	12T2421
+WC6941	Za Computer Science	RB1015	1	Core	11T7150
+PC1416	Cu Computer Science	CO1531	2	Core	17T0792
+RB1015	Nh Computer Science		3	Core	11T7150
+CO1531	Ur Computer Science		1	Elective	10T4012
